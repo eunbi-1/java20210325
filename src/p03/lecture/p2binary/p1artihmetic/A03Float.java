@@ -1,4 +1,4 @@
-package p03.lecture.p2binary.artihmetic;
+package p03.lecture.p2binary.p1artihmetic;
 
 public class A03Float {
 	public static void main(String[] args) {
