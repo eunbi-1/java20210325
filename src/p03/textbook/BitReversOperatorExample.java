@@ -1,6 +1,6 @@
 package p03.textbook;
 
-public class BiteReversOperatorExample {
+public class BitReversOperatorExample {
 	public static void main(String[] args) {
 		int v1 = 10;
 		int v2 = ~v1;
