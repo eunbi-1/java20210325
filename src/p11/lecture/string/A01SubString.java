@@ -11,5 +11,7 @@ public class A01SubString {
 		
 		String s3 = str1.substring(13, 19);
 		System.out.println(s3);
+		
+		
 	}
 }

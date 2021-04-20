@@ -13,3 +13,6 @@ public class A02Length {
 		System.out.println(s2);
 	}
 }
+
+
+
