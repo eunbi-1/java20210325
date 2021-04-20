@@ -1,5 +1,7 @@
 package p08.textbook.s080503;
 
+import p08.textbook.s080502.KumhoTire;
+
 public class CarExample {
 	public static void main(String[] args) {
 		Car myCar = new Car();

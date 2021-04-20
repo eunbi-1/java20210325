@@ -16,5 +16,13 @@ public class A01Polymorphism {
 		
 		System.out.println("공격");
 		hero.attack();
+		
 	}
 }
+
+
+
+
+
+
+

@@ -6,10 +6,10 @@ public class Car {
 	Tire backLeftTire = new HankookTire();
 	Tire backRightTire = new HankookTire();
 	
-		void run() {
-			frontLeftTire.roll();
-			frontRightTire.roll();
-			backLeftTire.roll();
-			backRightTire.roll();
-		}
+	void run() {
+		frontLeftTire.roll();
+		frontRightTire.roll();
+		backLeftTire.roll();
+		backRightTire.roll();
+	}
 }

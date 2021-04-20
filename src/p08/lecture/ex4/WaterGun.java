@@ -5,5 +5,4 @@ public class WaterGun implements Gun {
 	public void fire() {
 		System.out.println("물을 쏩니다.");
 	}
-	
 }
